@@ -1,3 +1,3 @@
 # utra
 
-Code used for University of Toronto Robotics Association SUMO (Arduino). 
+Code used for University of Toronto Robotics Association SUMO (Arduino & C). 
